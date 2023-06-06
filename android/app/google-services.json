@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "811715335913",
+    "project_id": "push-notification-nodejs-69681",
+    "storage_bucket": "push-notification-nodejs-69681.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:811715335913:android:b1dca702c81c55d36ec278",
+        "android_client_info": {
+          "package_name": "com.technicalranjit.push_notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "811715335913-9cabhbq686cj5eo79g4f2q5ss59ndvr0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbpDvjJMN8zJJj3cdjWnrrZdcRFT96JYo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "811715335913-9cabhbq686cj5eo79g4f2q5ss59ndvr0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
